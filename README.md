@@ -1,4 +1,3 @@
-# Project on the course "Introduction to Data analysis", MIPT 2022
 # Single - cell
 ## Authors:
 * Marfa Zakirova
